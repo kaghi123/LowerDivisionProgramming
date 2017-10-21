@@ -1,0 +1,21 @@
+1. No, because MyList does not have the iterator function. Interface Iterable has it.
+
+2. Yes if it's in the same package.
+
+3. add, isEmpty, size, remove.
+
+4. MyAbstractList provides a partial implementation of the MyList interface.
+
+5. An array has a fixed size.
+
+6. It's storage size changes behind the scene.
+
+7. 7.
+
+8. The program wouldn't work because MyAbstractArray is the parent class and it's abstract so none of its methods are worked out.
+
+9. It's incorrect because esureCapacity doubles and adds 1.
+
+10. No, it would just, waist memory.
+
+11. Nothing will happen, since it's just adding something and not checking the to see if a specific index exists.

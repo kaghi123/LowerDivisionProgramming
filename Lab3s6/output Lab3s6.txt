@@ -1,0 +1,6 @@
+Enter a text file: 
+a: 104
+e: 167
+i: 66
+o: 95
+u: 21

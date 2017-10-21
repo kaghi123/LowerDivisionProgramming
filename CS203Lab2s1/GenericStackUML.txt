@@ -1,0 +1,7 @@
+GenericStack<E> extends ArrayList<E>
+___________________________________
++push(o: E): void
++pop(): E
++peek(): E
++isEmpty(): boolean
++getSize(): int
